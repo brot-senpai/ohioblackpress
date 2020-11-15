@@ -1,0 +1,2 @@
+(this.webpackJsonpohioblackpress=this.webpackJsonpohioblackpress||[]).push([[21],{328:function(p,s,o){p.exports=o.p+"static/media/i3p1-pol.3a9f5dc8.jpg"}}]);
+//# sourceMappingURL=21.ece26b05.chunk.js.map

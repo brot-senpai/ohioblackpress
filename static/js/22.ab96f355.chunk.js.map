@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/Newspapers/content/palladium_of_liberty/content/images/pol_header.png"],"names":["module","exports"],"mappings":"sGAAAA,EAAOC,QAAU,IAA0B","file":"static/js/22.ab96f355.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/pol_header.10dad03c.png\";"],"sourceRoot":""}

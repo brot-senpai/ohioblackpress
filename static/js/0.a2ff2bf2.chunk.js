@@ -1,0 +1,2 @@
+(this.webpackJsonpohioblackpress=this.webpackJsonpohioblackpress||[]).push([[0,17],{223:function(e,a,n){"use strict";n.r(a);var t=n(0),i=n.n(t),c=(n(48),n(14)),r=n(325),s=n.n(r);a.default=function(){return i.a.createElement("div",null,i.a.createElement("div",{className:"info"},"The Afro-American"),i.a.createElement("div",null,i.a.createElement(c.a,{image:s.a})))}},325:function(e,a,n){e.exports=n.p+"static/media/afro_a_v4_02.a1e688a2.png"}}]);
+//# sourceMappingURL=0.a2ff2bf2.chunk.js.map

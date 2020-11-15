@@ -1,0 +1,2 @@
+(this.webpackJsonpohioblackpress=this.webpackJsonpohioblackpress||[]).push([[20],{329:function(s,n,o){s.exports=o.p+"static/media/Jenkins at 1843 convention.d546c2e5.png"}}]);
+//# sourceMappingURL=20.667a5fe3.chunk.js.map

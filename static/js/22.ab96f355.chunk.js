@@ -1,0 +1,2 @@
+(this.webpackJsonpohioblackpress=this.webpackJsonpohioblackpress||[]).push([[22],{330:function(p,s,o){p.exports=o.p+"static/media/pol_header.10dad03c.png"}}]);
+//# sourceMappingURL=22.ab96f355.chunk.js.map

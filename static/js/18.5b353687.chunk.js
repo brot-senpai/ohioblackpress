@@ -1,0 +1,2 @@
+(this.webpackJsonpohioblackpress=this.webpackJsonpohioblackpress||[]).push([[18],{326:function(s,p,e){s.exports=e.p+"static/media/Aliened-American.df817998.png"}}]);
+//# sourceMappingURL=18.5b353687.chunk.js.map

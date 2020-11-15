@@ -1,0 +1,2 @@
+(this.webpackJsonpohioblackpress=this.webpackJsonpohioblackpress||[]).push([[6],{227:function(e,a,s){"use strict";s.r(a);var n=s(0),t=s.n(n);s(48);a.default=function(){return t.a.createElement("div",null,t.a.createElement("div",{className:"info"},"Black Press Civil War"),t.a.createElement("div",null))}}}]);
+//# sourceMappingURL=6.9186a3c4.chunk.js.map

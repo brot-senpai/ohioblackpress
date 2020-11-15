@@ -1,0 +1,2 @@
+(this.webpackJsonpohioblackpress=this.webpackJsonpohioblackpress||[]).push([[19],{327:function(s,p,o){s.exports=o.p+"static/media/dt_vol1_02.b4586278.png"}}]);
+//# sourceMappingURL=19.6547f21c.chunk.js.map

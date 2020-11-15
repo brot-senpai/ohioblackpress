@@ -1,0 +1,2 @@
+(this.webpackJsonpohioblackpress=this.webpackJsonpohioblackpress||[]).push([[17],{325:function(s,a,p){s.exports=p.p+"static/media/afro_a_v4_02.a1e688a2.png"}}]);
+//# sourceMappingURL=17.d0e91947.chunk.js.map

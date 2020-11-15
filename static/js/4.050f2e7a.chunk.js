@@ -1,0 +1,2 @@
+(this.webpackJsonpohioblackpress=this.webpackJsonpohioblackpress||[]).push([[4],{225:function(e,n,a){"use strict";a.r(n);var t=a(0),s=a.n(t);a(48);n.default=function(){return s.a.createElement("div",null,s.a.createElement("div",{className:"info"},"Beyond Ohio"),s.a.createElement("div",null))}}}]);
+//# sourceMappingURL=4.050f2e7a.chunk.js.map

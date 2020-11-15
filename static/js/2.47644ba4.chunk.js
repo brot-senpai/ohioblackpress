@@ -1,0 +1,2 @@
+(this.webpackJsonpohioblackpress=this.webpackJsonpohioblackpress||[]).push([[2,19],{228:function(e,t,a){"use strict";a.r(t);var n=a(0),i=a.n(n),s=(a(48),a(14)),c=a(327),l=a.n(c);t.default=function(){return i.a.createElement("div",null,i.a.createElement("div",{className:"info"},"Dayton Tattler"),i.a.createElement("div",null,i.a.createElement(s.a,{image:l.a})))}},327:function(e,t,a){e.exports=a.p+"static/media/dt_vol1_02.b4586278.png"}}]);
+//# sourceMappingURL=2.47644ba4.chunk.js.map

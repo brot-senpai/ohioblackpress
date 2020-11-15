@@ -1,0 +1,2 @@
+(this.webpackJsonpohioblackpress=this.webpackJsonpohioblackpress||[]).push([[1,18],{224:function(e,a,n){"use strict";n.r(a);var t=n(0),i=n.n(t),c=n(14),s=n(326),l=n.n(s);n(48);a.default=function(){return i.a.createElement("div",{className:"info"},i.a.createElement("div",null,"Aliened Americans"),i.a.createElement("div",null,i.a.createElement(c.a,{image:l.a})))}},326:function(e,a,n){e.exports=n.p+"static/media/Aliened-American.df817998.png"}}]);
+//# sourceMappingURL=1.4e63fd78.chunk.js.map
