@@ -1,0 +1,35 @@
+{"newspapers":[
+    {"title": "1840s: Palladium of Liberty", 
+    "component_loc": "./content/palladium_of_liberty/palladium_of_liberty.js",
+    "tab_loc":"views/Newspapers/content/palladium_of_liberty/palladium_of_liberty_tabs"
+},
+    {"title": "The Afro-American",
+    "component_loc":"./content/afro_american/afro_american.js",
+    "tab_loc":"views/Newspapers/content/aliened_american/content/afro_american_tabs"
+
+},
+    {"title": "Dayton Tattler",
+    "component_loc":"./content/dayton_tattler/dayton_tattler.js",
+    "tab_loc":"views/Newspapers/content/dayton_tattler/content/dayton_tattler_tabs"
+},
+    {"title": "1850s: Aliened American", 
+    "component_loc": "./content/aliened_american/aliened_american",
+    "tab_loc":"views/Newspapers/content/aliened_american/content/aa_tabs"
+},
+    {"title": "1860s: Black Press circa Civil War", 
+    "component_loc": "./content/black_press_civil_war/black_press_civil_war",
+    "tab_loc": "views/Newspapers/content/black_press_civil_war/content/bpcw_tabs"
+},
+    {"title": "1870s and 1880s: 2nd Generation of Black Journalism", 
+    "component_loc": "./content/black_journalism/black_journalism",
+    "tab_loc": "views/Newspapers/content/black_journalism/content/bj_tabs"
+},
+    {"title": "1890s and Beyond: Renaissance of the Black Press in Ohio", 
+    "component_loc": "./content/renaissance_black_press/renaissance_black_press",
+    "tab_loc": "views/Newspapers/content/renaissance_black_press/content/rbp_tabs"
+},
+    {"title": "Beyond Ohio", 
+    "component_loc": "./content/beyond_ohio/beyond_ohio",
+    "tab_loc": "views/Newspapers/content/beyond_ohio/content/bo_tabs"
+}
+]}

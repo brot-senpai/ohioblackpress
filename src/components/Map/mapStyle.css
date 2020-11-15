@@ -1,0 +1,60 @@
+.states path {
+    stroke-width: 1px;
+    stroke: white;
+    fill: #DBDBDB;
+    cursor: pointer;
+}
+/*	.states path:hover, path.highlighted {
+    fill: tomato;
+}
+*/
+.arcs path {
+  stroke-width: .5px;
+  stroke: tomato;
+  pointer-events: none;
+  fill: none;
+}
+
+.circles path {
+  stroke-width: .5px;
+  stroke:black;
+  fill: none;
+  fill-opacity: .4;
+  
+}
+.circles:hover{
+  fill: #8d3155;
+	fill-opacity: .2;
+	cursor: pointer;
+}
+.tooltip {	
+  position: absolute;			
+  text-align: center;			
+  width: 60px;					
+  height: 28px;					
+  padding: 2px;				
+  font: 12px sans-serif;		
+  background: lightsteelblue;	
+  border: 0px;		
+  border-radius: 8px;			
+  pointer-events: none;			
+}
+
+.marker {
+	fill: #31558d;
+
+	fill-opacity: .75;
+	transition: all .2s ease-in-out;
+	
+}
+.marker:hover{
+  fill: #8d3155;
+	fill-opacity: 1;
+	cursor: pointer;
+}
+
+.contain {
+  object-fit: contain;
+  width: 100%;
+  max-height: 100%;
+}
