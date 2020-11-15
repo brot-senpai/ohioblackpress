@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://brot-sempai.github.io/ohioblackpress",
+  "homepage": "https://brot-senpai.github.io/ohioblackpress",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "4.2.1",
